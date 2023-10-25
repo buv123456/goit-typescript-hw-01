@@ -3,3 +3,5 @@ function concatenation(firstWord: string, secondWord: string) {
 }
 
 export { concatenation };
+
+const f = (a: string): string => a;
